@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body, html {
+  margin: 5px;
+  padding: 5px;
+}
+
+body {
+  background-color: #ff0032;
+}
+
+.flexParent {
+  display:flex;
+  flex-wrap:
+}
+
+.flexParent div{
+padding: 5px;
+}
+
+.flexParent:hover{
+font-weight: bold;
+font: Blippo, fantasy;
+}
